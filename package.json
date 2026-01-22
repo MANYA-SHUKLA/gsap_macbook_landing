@@ -2,7 +2,7 @@
   "name": "macbook_gsap_app",
   "private": true,
   "version": "0.0.0",
-  "author": "Manya Shukla",
+  "author": "Manya Shukla <shuklamanya99@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",

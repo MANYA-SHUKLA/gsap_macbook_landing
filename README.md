@@ -98,6 +98,9 @@ This project is for educational purposes.
 
 Made with ❤️ by Manya Shukla 2026
 
+- **Email**: [shuklamanya99@gmail.com](mailto:shuklamanya99@gmail.com)
+- **WhatsApp**: [+91 8005586588](https://wa.me/918005586588)
+
 ---
 
 Copyright © 2026 Apple Inc. All rights reserved.

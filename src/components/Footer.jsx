@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer>
             <div className="info">
-                <p>More ways to shop: Find an Apple Store or other retailer near you. Or call 000800 040 1966.</p>
+                <p>Contact me for projects or collaborations: <a href="mailto:shuklamanya99@gmail.com">shuklamanya99@gmail.com</a> or WhatsApp <a href="https://wa.me/918005586588">+91 8005586588</a>.</p>
                 <img src="/logo.svg" alt ="Apple logo"/>
             </div>
 
